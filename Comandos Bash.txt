@@ -1,3 +1,5 @@
 ls - lsita arquivos 
 CD - move entre diretorios
 PWD- mostra diretorio de trabalho
+cat- exibe o cont do arquivo	
+rm- remove aqrquivo ou diretorio
