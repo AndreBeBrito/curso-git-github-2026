@@ -1,0 +1,3 @@
+ls - lsita arquivos 
+CD - move entre diretorios
+PWD- mostra diretorio de trabalho
