@@ -15,3 +15,6 @@ git status
 6. git commit -m "mensagem"
 git status
 7. volta para passo 3
+
+testeee
+
