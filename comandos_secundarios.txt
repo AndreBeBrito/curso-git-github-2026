@@ -1,0 +1,1 @@
+esse aquivo contem infos adicionais para git
