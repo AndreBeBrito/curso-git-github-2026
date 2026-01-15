@@ -2,3 +2,6 @@ esse aquivo contem infos adicionais para git
 
 - primeiro comando
 - segundo comando
+
+# comandos genericos 
+
