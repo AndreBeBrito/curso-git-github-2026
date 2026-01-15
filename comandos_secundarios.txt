@@ -5,3 +5,4 @@ esse aquivo contem infos adicionais para git
 
 # comandos genericos 
 
+# comandos estranhos
