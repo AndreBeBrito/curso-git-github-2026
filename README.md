@@ -4,4 +4,6 @@ Um curso para iniciantes para aprenderem a trabalhar versionamento de codg.
 
 - pessoas participantes	
 André
+André 02
+André 03
 
